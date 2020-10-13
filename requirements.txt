@@ -1,0 +1,6 @@
+python3.8 or more
+netfilterqueue
+scapy
+subprocess
+colorama
+re
